@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2023-03-20 21:06:19 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-01-05 11:47:40 -0300"
@@ -98,6 +104,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2021-01-15 21:34:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2023-03-20 21:06:19 -0300"
     },
     "done": true
   },
@@ -167,9 +179,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2023-03-20 20:48:42 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2023-02-26 12:51:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2023-03-20 20:48:29 -0300"
     },
     "done": true
   },
@@ -323,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2023-03-20 21:06:19 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2021-06-08 19:33:48 -0300"
@@ -411,6 +441,7 @@
     "criteria": {
       "cooked_porkchop": "2021-01-05 11:40:01 -0300",
       "potato": "2021-04-13 19:03:55 -0300",
+      "pumpkin_pie": "2023-03-20 19:41:50 -0300",
       "rotten_flesh": "2021-01-08 11:05:24 -0300",
       "cookie": "2022-07-30 11:48:43 -0300",
       "cooked_chicken": "2023-02-26 13:36:49 -0300"
@@ -480,6 +511,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2021-01-15 21:34:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2023-03-20 21:06:19 -0300"
     },
     "done": true
   },
@@ -765,6 +802,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2023-03-20 21:06:19 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2021-01-05 11:35:43 -0300"
@@ -916,6 +959,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2023-03-20 20:48:42 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2021-01-15 19:57:50 -0300"
@@ -952,6 +1001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2023-03-20 21:06:19 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2021-06-08 19:33:48 -0300"
@@ -973,6 +1028,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2023-02-26 13:00:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2023-03-20 20:48:29 -0300"
     },
     "done": true
   },
@@ -1126,6 +1187,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2023-03-20 21:06:19 -0300"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2021-09-17 12:54:52 -0300"
@@ -1216,6 +1283,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2023-03-20 21:06:19 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
       "has_red_nether_bricks": "2022-07-27 12:30:55 -0300"
@@ -1231,6 +1304,12 @@
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2021-06-08 20:44:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2023-03-20 21:06:19 -0300"
     },
     "done": true
   },
@@ -1594,6 +1673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2023-03-20 20:48:42 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_candle": {
     "criteria": {
       "has_light_blue_dye": "2023-02-26 14:18:56 -0300"
@@ -1633,6 +1718,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2023-02-26 12:51:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2023-03-20 20:48:42 -0300"
     },
     "done": true
   },
@@ -1871,6 +1962,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:white": "2023-03-20 19:54:29 -0300"
+    },
+    "done": false
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2021-01-15 19:57:52 -0300",
@@ -1961,6 +2058,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2021-01-15 21:34:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2023-03-20 20:48:29 -0300"
     },
     "done": true
   },
