@@ -6143,5 +6143,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2023-03-25 15:28:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2023-03-25 15:28:46 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3337
 }
