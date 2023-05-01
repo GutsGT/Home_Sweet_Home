@@ -55,6 +55,7 @@
     "criteria": {
       "cooked_porkchop": "2022-10-02 14:50:21 -0300",
       "sweet_berries": "2022-04-16 22:12:31 -0300",
+      "apple": "2023-05-01 14:33:49 -0300",
       "pumpkin_pie": "2022-04-16 22:32:39 -0300",
       "beetroot": "2022-07-30 11:30:50 -0300",
       "cooked_salmon": "2022-04-16 21:43:35 -0300"
@@ -2726,6 +2727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2023-03-26 19:48:56 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2023-03-26 20:01:57 -0300"
@@ -2735,12 +2742,6 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2023-03-26 20:01:59 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
-    "criteria": {
-      "has_lapis_ore": "2023-03-26 19:48:56 -0300"
     },
     "done": true
   },
