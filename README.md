@@ -8,10 +8,10 @@ COMO SALVAR
 
 if( primeiro commit da máquina ){
 
-  ...\Home Sweet Home>``first_push "data"``
+  ...\Home Sweet Home>``first_push``
   
 }else{
   
-  ...\Home Sweet Home>``push "data"``
+  ...\Home Sweet Home>``push``
   
 }
