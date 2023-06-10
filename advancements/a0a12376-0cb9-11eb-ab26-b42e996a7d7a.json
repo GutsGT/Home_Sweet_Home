@@ -6045,5 +6045,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2023-06-10 15:26:45 -0300",
+      "ocean_ruin_cold": "2023-06-10 15:25:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2023-06-10 15:26:45 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3463
 }
