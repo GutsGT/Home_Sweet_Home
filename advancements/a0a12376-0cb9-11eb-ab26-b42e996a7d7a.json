@@ -6058,5 +6058,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2023-06-13 12:57:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2023-06-13 12:57:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2023-06-13 12:57:49 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3463
 }
