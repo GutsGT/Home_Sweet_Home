@@ -6082,15 +6082,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2023-08-20 11:55:04 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_white_tulip": "2023-08-20 11:55:23 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+  "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
-      "has_orange_tulip": "2023-08-20 11:55:04 -0300"
+      "has_soul_sand": "2023-09-07 09:55:20 -0300"
     },
     "done": true
   },
