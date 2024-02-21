@@ -6142,12 +6142,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
-    "criteria": {
-      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2024-02-18 16:19:50 -0300"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2024-02-18 16:07:42 -0300"
@@ -6166,9 +6160,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2024-02-18 16:19:50 -0300"
+    },
+    "done": false
+  },
   "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
       "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2024-02-18 16:19:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-02-20 19:06:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-02-20 19:06:03 -0300"
     },
     "done": true
   },
