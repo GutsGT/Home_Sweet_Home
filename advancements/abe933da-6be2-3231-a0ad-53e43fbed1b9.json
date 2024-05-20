@@ -3301,15 +3301,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_red_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-05-04 16:13:44 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2024-05-04 15:29:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2024-05-04 15:29:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-05-04 16:13:44 -0300"
     },
     "done": true
   },
@@ -3325,9 +3331,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_bed": {
+  "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
-      "has_red_wool": "2024-05-04 15:29:37 -0300"
+      "has_stripped_logs": "2024-05-12 10:08:16 -0300"
     },
     "done": true
   },
