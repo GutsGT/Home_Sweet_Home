@@ -4185,12 +4185,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/turtle_helmet": {
-    "criteria": {
-      "has_scute": "2020-10-30 11:27:49 -0300"
-    },
-    "done": true
-  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2020-11-01 10:54:59 -0300"
@@ -6238,5 +6232,5 @@
     },
     "done": true
   },
-  "DataVersion": 3700
+  "DataVersion": 3839
 }
