@@ -6400,5 +6400,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/bundle": {
+    "criteria": {
+      "has_string": "2025-01-11 23:47:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-12 00:05:30 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
